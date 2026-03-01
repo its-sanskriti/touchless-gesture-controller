@@ -47,6 +47,7 @@ The system captures live webcam input, detects hand gestures, and converts them 
 ## ▶️ How to Run
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/its-sanskriti/touchless-gesture-controller.git
 cd vision-agent-demo
 python examples/gesture_agent/gesture_controller.py
+
